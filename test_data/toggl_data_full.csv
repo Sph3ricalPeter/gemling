@@ -1,0 +1,10 @@
+Description,Duration,Member,Email,Project,Tags,Start date,Stop date,Start time,Stop time,Weekday,Week,Teams,Client,Project start,Project end
+"Task",1:00:00,"UserA","usera@example.com","ProjectX","-","2026-01-30","2026-01-30","14:15:00","15:15:00","Friday","W05, 2026","-","ClientZ","2024-07-04","-"
+"Task",3:00:00,"UserA","usera@example.com","ProjectX","-","2026-01-30","2026-01-30","11:00:00","14:00:00","Friday","W05, 2026","-","ClientZ","2024-07-04","-"
+"Task",6:00:00,"UserA","usera@example.com","ProjectX","-","2026-01-29","2026-01-29","11:00:00","17:00:00","Thursday","W05, 2026","-","ClientZ","2024-07-04","-"
+"Task",12:30:00,"UserB","userb@example.com","ProjectX","-","2026-01-26","2026-01-26","09:00:00","21:30:00","Monday","W05, 2026","-","ClientZ","2024-07-04","-"
+"Task",8:30:00,"UserB","userb@example.com","ProjectX","-","2026-01-25","2026-01-25","12:00:00","20:30:00","Sunday","W04, 2026","-","ClientZ","2024-07-04","-"
+"Task",8:00:00,"UserB","userb@example.com","ProjectX","-","2026-01-23","2026-01-23","13:30:00","21:30:00","Friday","W04, 2026","-","ClientZ","2024-07-04","-"
+"Task",5:30:00,"UserC","userc@example.com","ProjectX","-","2026-01-07","2026-01-07","17:00:00","22:30:00","Wednesday","W02, 2026","-","ClientZ","2024-07-04","-"
+"Task",5:59:32,"UserC","userc@example.com","ProjectY","-","2026-01-07","2026-01-07","10:00:15","15:59:47","Wednesday","W02, 2026","-","ClientZ","2025-03-04","-"
+"Task",6:00:00,"UserC","userc@example.com","ProjectX","-","2026-01-06","2026-01-06","16:00:00","22:00:00","Tuesday","W02, 2026","-","ClientZ","2024-07-04","-"

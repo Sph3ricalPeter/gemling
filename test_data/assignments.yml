@@ -1,0 +1,20 @@
+# Map Toggl project names to GEM Project + Milestone
+#
+# TIP: For your real assignments, create data/assignments.yml
+# The data/ folder is ignored by git and Claude.
+#
+# Usage with private data:
+#   python gemling.py data/toggl_export.csv -a data/assignments.yml
+#
+# Available colors: cyan, green, yellow, magenta, blue, red,
+#                   bright_cyan, bright_green, bright_yellow, bright_magenta
+
+assignments:
+  "ProjectX":
+    project: "GEM Project Name"
+    milestone: "Q1 Development"
+    color: "cyan"
+  "ProjectY":
+    project: "Another GEM Project"
+    milestone: "Maintenance"
+    color: "green"
